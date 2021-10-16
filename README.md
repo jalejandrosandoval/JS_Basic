@@ -1,2 +1,4 @@
-# JS_Basic
+# JS Basic
 Course of JS Basic...
+
+<hr>
