@@ -34,15 +34,15 @@ console.log(pasatiempos);
 
 // Datos Array
 let contacto = [];
-contacto['Celular'] = 3163072295;
+contacto['Celular'] = 3123456789;
 contacto['email'] = "jhonsandovalmiranda@gmail.com";
 console.log(contacto);
 
 // Datos Objeto
 let dirrecion = {
-    calle: "200A",
+    calle: "27A",
     numero: "19-12",
-    ciudad: "Floridablanca",
+    ciudad: "Bucaramanga",
     departamento: "Santander"
 };
 console.log(dirrecion);
