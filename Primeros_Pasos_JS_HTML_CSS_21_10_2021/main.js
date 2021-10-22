@@ -35,14 +35,14 @@ console.log(pasatiempos);
 // Datos Array
 let contacto = [];
 contacto['Celular'] = 3123456789;
-contacto['email'] = "jhonsandovalmiranda@gmail.com";
+contacto['E-mail'] = "jhonsandovalmiranda@gmail.com";
 console.log(contacto);
 
 // Datos Objeto
-let dirrecion = {
-    calle: "27A",
-    numero: "19-12",
-    ciudad: "Bucaramanga",
-    departamento: "Santander"
+let Dirrecion = {
+    Calle: "27A",
+    Numero: "19-12",
+    Ciudad: "Bucaramanga",
+    Departamento: "Santander"
 };
-console.log(dirrecion);
+console.log(Dirrecion);
