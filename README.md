@@ -5,7 +5,7 @@ Course of JS Basic...
 
 Jhon Alejandro Sandoval Miranda...
 
-## Prácticas del Diplomado ->S
+## Prácticas del Diplomado ->
 
 * Configuracion_16_10_2021: Configuración inicial en una página HTML.
 * Conocer_el_editor_19_10_2021: VSCode como Editor.
