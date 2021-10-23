@@ -11,4 +11,4 @@ Jhon Alejandro Sandoval Miranda...
 * Conocer_el_editor_19_10_2021: VSCode como Editor.
 * Primeros_Pasos_JS_HTML_CSS_21_10_2021: Manejo de Variables.
 * Repaso_Variables_constantes_23_10_2021: Repaso de Variables.
-* Forma_Incluir_Javascript_01_23_10_2021: Taller # 1.
+* Taller # 1: Taller # 1 de JS.
