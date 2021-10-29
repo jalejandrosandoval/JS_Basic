@@ -41,8 +41,12 @@ console.log(`%c Operador de MayorIgual: %c(${num1} >= ${num2}) => %c${num1 >= nu
 console.log(`%c Operador de MenorIgual: %c(${num1} <= ${num2}) => %c${num1 <= num2} `, _style, _style1, _style2);
 console.groupEnd();
 
-let num3 = prompt("Digite un número 3:");
-let num4 = prompt("Digite un número 4:");
+// Evento para verificar toda la carga del HTML.
+addEventListener("DOMContentLoaded", ()=>{
+    let num3 = prompt("Digite un número 3:");
+    let num4 = prompt("Digite un número 4:");
 
-console.group("Operadores Prompt ---->");
-console.log(`%c Operadores de Igualad : %c(${num3} == ${num4}) => %c${num3 == num4}`, _style, _style1, num3 == num4 ? _style2: _style3);
+    console.group("Operadores Prompt ---->");
+    console.log(`%c Operadores de Igualad : %c(${num3} == ${num4}) => %c${num3 == num4}`, _style, _style1, num3 == num4 ? _style2: _style3);
+    console.groupEnd();
+});
