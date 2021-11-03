@@ -24,7 +24,6 @@ let _style3 = `font-family; color:#dc3545;
             border-radius: 5px;
             font-weight: 700`;
 
-
 let num1= 28;
 let num2= 27;
 
@@ -34,7 +33,7 @@ console.log(`Data 2: ${num2} DataType 1: ${typeof(num2)}`);
 console.groupEnd();
 
 console.group("Operadores ---->");
-console.log(`%c Operadores de Igualad : %c(${num1} == ${num2}) => %c${num1 == num2}`, _style, _style1, num1 == num2 ? _style2: _style3);
+console.log(`%c Operadores de Igualdad : %c(${num1} == ${num2}) => %c${num1 == num2}`, _style, _style1, num1 == num2 ? _style2: _style3);
 console.log(`%c Operador de Mayor: %c(${num1} > ${num2}) => %c${num1 > num2} `, _style, _style1, _style2);
 console.log(`%c Operador de Menor: %c(${num1} < ${num2}) => %c${num1 < num2} `, _style, _style1, _style2);
 console.log(`%c Operador de MayorIgual: %c(${num1} >= ${num2}) => %c${num1 >= num2} `, _style, _style1, _style2);
