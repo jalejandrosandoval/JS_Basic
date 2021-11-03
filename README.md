@@ -14,3 +14,4 @@ Jhon Alejandro Sandoval Miranda...
 * Taller # 1: Taller # 1 de JS.
 * Operadores_Aritmeticos_Funciones_26_10_2021: Operadores aritméticos básicos.
 * Operadores_Comparacion_28_10_2021: Operadores de comparación.
+* Operadores_Asignacion_02_11_2021: Operadores de asignación.
