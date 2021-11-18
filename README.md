@@ -19,3 +19,4 @@ Jhon Alejandro Sandoval Miranda...
 * Condicionales_if_else_04_11_2021: Condicionales IF Else.
 * Condicionales_Switch_06_11_2021: Codicionales Switch Case.
 * Array_Asociativos_Objetos_16_11_2021: Arrays Asociativos en JS.
+* Arrays_Metodos_18_11_2021: Métodos dentro de los Arrays.s
